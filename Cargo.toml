@@ -1,6 +1,6 @@
 [package]
 name = "gm_file"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Allows you to manipulate files in the GarrysMod/garrysmod directory."
 license = "MIT OR Apache-2.0"
