@@ -1,5 +1,3 @@
-#![feature(c_unwind)]
-
 use std::fs;
 use std::fs::File;
 use std::io::prelude::*;
